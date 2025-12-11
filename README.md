@@ -92,6 +92,7 @@ The same conceptual workflow built locally will later evolve into:
 
 The production folder will eventually contain the “fully automated” version of the project, while the local folder remains a valuable lab for experimentation and learning.
 
+---
 
 ## 🏗️ Repository Structure
 ```bash
@@ -119,6 +120,7 @@ Terraforming-VMwares/
 └── README.md
 
 
+```
 ---
 
 ## 🔧 Technologies Used
@@ -129,8 +131,6 @@ Terraforming-VMwares/
 - (Optional) **Ansible**
 
 
----
-```
 
 ## 📓 Learning Journal
 
